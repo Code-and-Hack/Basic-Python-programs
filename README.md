@@ -25,14 +25,14 @@ Looking to dive into Python programming? You're in the right place! 🐍 This re
 
 4. **Modify the code and experiment!** Don’t be afraid to tweak things around and see what happens.
 
-##💻 System Requirements
+## 💻 System Requirements
 *Python 3.x (You can download it here)
 *A code editor or IDE (such as VSCode or PyCharm)
-##✨ Why Learn Python?
+## ✨ Why Learn Python?
 *Python is super versatile, whether you’re interested in web development, data science, automation, or just learning to code for fun. With a huge community and endless resources, it's the perfect language to get started with.
 
-##🤝 Contribute
+## 🤝 Contribute
 *Found something cool you'd like to add? Fork this repo, make your changes, and create a pull request! Let’s learn together. 🚀
 
-##👨‍💻 Happy Coding!
+## 👨‍💻 Happy Coding!
 *If you get stuck or have questions, feel free to open an issue or reach out! Let’s grow as Python pros together. 💪
