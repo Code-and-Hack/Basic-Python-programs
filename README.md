@@ -17,7 +17,7 @@ Looking to dive into Python programming? You're in the right place! 🐍 This re
 
 1. **Clone the repo** to your local machine:
    ```bash
-   git clone https://github.com/YourUsername/Basic-Python-Programs.git
+   git clone https://github.com/Code-and-Hack/Basic-Python-programs.git
    
 2. **Explore the Python scripts** in your favorite code editor (like VSCode or PyCharm).
 
