@@ -1,6 +1,6 @@
 """
 # Python Basics Tutorial
-# Please the following, so that you can get the idea of Python Programming.
+# Please read the following, so that you can get the idea of Python Programming.
 
 # 1. Variables and Data Types
   # In Python, you can store different types of stuff like numbers, text, and True/False values.
