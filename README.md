@@ -26,7 +26,7 @@ Looking to dive into Python programming? You're in the right place! 🐍 This re
 4. **Modify the code and experiment!** Don’t be afraid to tweak things around and see what happens.
 
 ## 💻 System Requirements
-* Python 3.x (You can download it here)
+* Python 3.x (You can download from python.org)
 * A code editor or IDE (such as VSCode or PyCharm)
 ## ✨ Why Learn Python?
 * Python is super versatile, whether you’re interested in web development, data science, automation, or just learning to code for fun. With a huge community and endless resources, it's the perfect language to get started with.
