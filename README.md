@@ -1,6 +1,6 @@
 # 🎉 Welcome to the **Basic Python Programs** Repository! 🎉
 
-Looking to dive into Python programming? You're in the right place! 🐍 This repository is filled with beginner-friendly programs, each designed to help you get comfortable with Python in a fun and practical way.
+Looking to dive into Python programming? You're in the right place! 🐍 This repository is filled with beginner-friendly programs, and learning environment, each designed to help you get comfortable with Python in a fun and practical way. This is still under development, so please consider supporting.
 
 ## 🔍 What's in this Repo?
 
